@@ -1,6 +1,6 @@
-package org.example;
+package lesson5;
 
-public class Main {
+public class lesson5Task1 {
     public static void main(String[] args) {
         q1();
         q2();
