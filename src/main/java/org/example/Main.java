@@ -34,7 +34,7 @@ public class Main {
         System.out.println(minValue);
     }
 
-    // Разница между меньшим и большим числом
+    // Разница между самым меньшим и большим числом
     public static void q3 () {
         int [] mass = {1, -12, 22, 15, 14, -3, 63, 326, 16};
         int minValue = mass[0];
